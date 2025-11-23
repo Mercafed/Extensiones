@@ -1,13 +1,19 @@
-{
-  "name": "SeriesDonghua Dev Repo",
-  "version": 1,
-  "plugins": [
-    {
-      "url": "https://github.com/Mercafed/Extensiones/releases/download/v1.0/ExampleProvider.cs4",
-      "name": "SeriesDonghua",
-      "version": 1
-    }
-  ]
-
-}
-
+[
+  {
+    "url": "https://github.com/Mercafed/Extensiones/releases/download/v1.0/ExampleProvider.cs4",
+    "name": "SeriesDonghua",
+    "version": 1,
+    "internalName": "SeriesDonghuaProvider",
+    "description": "Extensión para series de animación china (Donghua).",
+    "authors": [
+      "Mercafed"
+    ],
+    "language": "es",
+    "tvTypes": [
+      "Anime"
+    ],
+    "status": 1,
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Mercafed/Extensiones"
+  }
+]
