@@ -3,10 +3,11 @@
   "version": 1,
   "plugins": [
     {
-      "url": "https://github.com/Mercafed/Extensiones/blob/main/ExampleProvider.cs3",
+      "url": "https://github.com/Mercafed/Extensiones/releases/download/v1.0/ExampleProvider.cs4",
       "name": "SeriesDonghua",
       "version": 1
     }
   ]
 
 }
+
