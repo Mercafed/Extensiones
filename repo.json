@@ -1,0 +1,8 @@
+{
+    "name": "anirepo",
+    "description": "Use Aniyomi Extensions in CloudStream!",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Mercafed/Extensiones/refs/heads/main/plugins.json"
+    ]
+}
