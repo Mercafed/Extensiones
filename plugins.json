@@ -2,7 +2,7 @@
   {
     "url": "https://github.com/Mercafed/Extensiones/releases/download/v1.1/ExampleProvider2.cs4",
     "name": "SeriesDonghua",
-    "version": 2,
+    "version": 3,
     "internalName": "SeriesDonghuaProvider",
     "description": "Extensión para series de animación china (Donghua).",
     "authors": [
@@ -17,6 +17,7 @@
     "repositoryUrl": "https://github.com/Mercafed/Extensiones"
   }
 ]
+
 
 
 
