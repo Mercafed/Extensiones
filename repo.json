@@ -3,6 +3,6 @@
     "description": "Use Aniyomi Extensions in CloudStream!",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/Mercafed/Extensiones/refs/heads/main/plugins.json"
+      "http://192.168.1.74:8080/ExampleProvider.cs4"
     ]
 }
