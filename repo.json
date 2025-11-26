@@ -1,8 +1,8 @@
 {
     "name": "anirepo",
-    "description": "Use Aniyomi Extensions in CloudStream!",
+    "description": "Explora tus donghuas favoritos con cloudstream",
     "manifestVersion": 1,
     "pluginLists": [
-      "http://192.168.1.74:8080/plugins.json"
+      "https://raw.githubusercontent.com/Mercafed/Extensiones/refs/heads/main/plugins.json"
     ]
 }
